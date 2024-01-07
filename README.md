@@ -2,6 +2,9 @@
 
 **Disclaimer** - This is a simple project with the idea of trying Stripe Simple checkout. There could be a better way to achieve the desired effect.
 
+You can view the project on Netlify [here](https://fascinating-pastelito-ed73c2.netlify.app/).
+P.S - I am not a designer.
+
 ## Start the project
 
 Install via **npm** or **yarn**.
