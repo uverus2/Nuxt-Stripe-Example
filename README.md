@@ -10,7 +10,7 @@ P.S - I am not a designer.
 Install via **npm** or **yarn**.
 - ```npm install```
 
-Create a **.env** file and copy the contents from **.example**.
+Create a **.env** file and copy the contents from **example-env**.
 
 Generate your keys. 
 
